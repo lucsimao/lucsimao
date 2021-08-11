@@ -4,6 +4,9 @@ My name is Lucas and this is my personagem github page.
 :mortar_board: I have a degree in Computer Engineering at Universidade Federal do Ceará. Focused on Information Technology.\
 :book: Aiming at personal and professional growth, I've been consolidating my knowledges about software develop and test, always looking for updating my skills about new technologies and solutions.
 
+![Lucas Simão](https://github-readme-stats.vercel.app/api?username=lucsimao&show_icons=true&count_private=true&theme=dracula)
+![Lucas Simão](https://github-readme-stats.vercel.app/api/top-langs/?username=lucsimao&layout=compact&langs_count=16&theme=dracula)
+
 ## Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -45,9 +48,6 @@ My name is Lucas and this is my personagem github page.
 ## API Clients Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
-
-## Github status
-[![Lucas Simão](https://github-readme-stats.vercel.app/api?username=lucsimao&show_icons=true&count_private=true)](https://github.com/anandmainali)
 
 ## Contact
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucsimao)
