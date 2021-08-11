@@ -1,7 +1,8 @@
-# Hello! 👋
+# Hello! :computer:
 My name is Lucas and this is my personagem github page.
 
-I have a degree in Computer Engineering at Universidade Federal do Ceará. Focused on Information Technology. Aiming at personal and professional growth, I've been consolidating my knowledges about software develop and test, always looking for updating my skills about new technologies and solutions.
+:mortar_board: I have a degree in Computer Engineering at Universidade Federal do Ceará. Focused on Information Technology.\
+:book: Aiming at personal and professional growth, I've been consolidating my knowledges about software develop and test, always looking for updating my skills about new technologies and solutions.
 
 ## Technologies
 
