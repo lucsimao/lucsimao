@@ -1,8 +1,30 @@
-# Hello! :computer:
-My name is Lucas and this is my personagem github page.
+👋 Hello! I'm a Senior Software Engineer with 10+ years of experience in IT Area, including 5+ years working with NodeJs backend and Cloud Services.
 
-:mortar_board: I have a degree in Computer Engineering at Universidade Federal do Ceará. Focused on Information Technology.\
-:book: Aiming at personal and professional growth, I've been consolidating my knowledges about software develop and test, always looking for updating my skills about new technologies and solutions.
+Passionate with Technology, I have a bachelor degree in Computer Engineering by Federal University of Ceará and have been consolidating knowledge about software development and software quality, aiming to keep up to date with new solutions and technologies.
+
+🗝 Key Achievements 🗝
+• Have created an entire solution, setting up infrastructure, database, architeture, development and test process from the beginning that was used as a core service and increased api hits in general, besides decreased opened ticket by 40% using NodeJs, Jest, Docker, Postgres, Terraform and several AWS Services
+• Have decreased 40% task development time by applying best practices on a chat bot dialog service using NodeJs, Typescript MongoDB and Docker
+• Improved by 30% test cases designing time using automated python scripts 
+
+🧠 Soft skills 🧠
+• My co-workers recognize me as a very proactive team player, with good communication skills, besides a fast learner, focused on results and that enjoy sharing knowledge with teammates.
+
+💻 Hard Skills 💻
+• Proficient: NodeJS (Typescript | Javascript), PostgreSQL, AWS Technologies (ECS, SQS, SNS, DynamoDb, Lambda, RDS, S3), Serverless | Software Development Lifecycle
+• Intermediate: Terraform, Redis, ElasticSearch, Docker, Scrum, Kanban, ReactJs, .NET, Scrum, Kanban, Datadog, CI/CD Platforms (Azure Devops, Gitlab CI/CD, Bitbucket Pipelines, Github Actions)
+• Beginner: RabbitMQ, Angular, Kubernetes
+
+📚Reference Books📚
+• Bob Martin - Clean Architecture
+• Bob Martin - Clean Code
+• Bob Martin - The Clean Coder
+• Erich Gamma et al - Design Patterns
+• Martin Fowler - Refactoring
+• Mauricio Aniche - Test-Driven Development.
+
+🌟 Let’s Connect! 🌟
+Let's connect if you are looking for an experienced Senior Software Engineer who can bring value to your team through technical expertise, innovation, and a passion for problem-solving.
 
 ![Lucas Simão](https://github-readme-stats.vercel.app/api?username=lucsimao&show_icons=true&count_private=true&theme=dracula)
 ![Lucas Simão](https://github-readme-stats.vercel.app/api/top-langs/?username=lucsimao&layout=compact&langs_count=16&theme=dracula)
@@ -39,7 +61,7 @@ My name is Lucas and this is my personagem github page.
 ## Contact
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucsimao)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucsimao/)
-[![Gmail Badge](https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ](mailto:lucasimao64@gmail.com)
 
 ## References
