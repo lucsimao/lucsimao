@@ -3,6 +3,10 @@
 I'm a Senior Software Engineer with 10+ years of experience in IT Area, including 5+ years working with NodeJs backend and Cloud Services.
 Passionate with Technology, I have a bachelor degree in Computer Engineering by Federal University of Ceará and have been consolidating knowledge about software development and software quality, aiming to keep up to date with new solutions and technologies.
 
+![Lucas Simão](https://github-readme-stats.vercel.app/api/top-langs/?username=lucsimao&layout=donut&langs_count=16&theme=dracula)
+![Lucas Simão](https://github-readme-stats.vercel.app/api?username=lucsimao&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula)
+
+
 🗝 Key Achievements 🗝
 - Have created an entire solution, setting up infrastructure, database, architeture, development and test process from the beginning that was used as a core service and increased api hits in general, besides decreased opened ticket by 40% using NodeJs, Jest, Docker, Postgres, Terraform and several AWS Services
 - Have decreased 40% task development time by applying best practices on a chat bot dialog service using NodeJs, Typescript MongoDB and Docker
@@ -28,9 +32,6 @@ Passionate with Technology, I have a bachelor degree in Computer Engineering by 
 🌟 Let’s Connect! 🌟
 
 Let's connect if you are looking for an experienced Senior Software Engineer who can bring value to your team through technical expertise, innovation, and a passion for problem-solving.
-
-![Lucas Simão](https://github-readme-stats.vercel.app/api?username=lucsimao&show_icons=true&count_private=true&theme=dracula)
-![Lucas Simão](https://github-readme-stats.vercel.app/api/top-langs/?username=lucsimao&layout=compact&langs_count=16&theme=dracula)
 
 ## Technologies
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
